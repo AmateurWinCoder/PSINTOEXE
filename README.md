@@ -1,5 +1,6 @@
 # PSINTOEXE
 A very short program that can transform a .ps1 script into a .exe or .com file using Mscholtes/PS2EXE
+Make sure you have Admin-rights when using this scipt.
 
 All in all you only need to provide a Source and Destination Path when PSINTOEXE aks you. 
 Notice that the paths have to be in the following format: 
